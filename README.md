@@ -1,2 +1,15 @@
-# Medibuddy
-MediBuddy is an interactive chatbot that suggests possible diseases based on user-reported symptoms, provides basic health advice, and recommends consulting a doctor. Built with HTML, CSS, JavaScript, and Google API for intuitive symptom-based guidance.
+MediBuddy – Symptom-Based Health Assistant
+
+MediBuddy is a web-based chatbot that helps users identify possible health conditions based on their symptoms. It collects symptom details via an interactive chat interface, suggests potential diseases, and provides basic advice while recommending consultation with a doctor if necessary.
+
+Features:
+
+Interactive symptom collection
+
+Disease suggestion based on knowledge base
+
+Health advice and precautionary guidance
+
+Easily extendable for telemedicine integration
+
+Tech Stack: HTML, CSS, JavaScript, Google API
