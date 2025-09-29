@@ -13,3 +13,5 @@ Health advice and precautionary guidance
 Easily extendable for telemedicine integration
 
 Tech Stack: HTML, CSS, JavaScript, Google API
+
+Remainder: This ChatBot is currently not working as I can't share my Gemini API Key publicly. But you can see the UI and experience it
